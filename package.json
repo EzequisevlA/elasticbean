@@ -1,0 +1,12 @@
+{
+  "name": "app-estatica-eb",
+  "version": "1.0.0",
+  "description": "Aplicação estática servida com Express no Elastic Beanstalk",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
